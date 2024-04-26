@@ -1,0 +1,291 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "category": "phone",
+        "name": "Smartphone Apple iPhone 14 128GB Purple",
+        "description": "The Smartphone Apple iPhone 14 128GB in Purple delivers a seamless blend of elegance, innovation, and cutting-edge technology.",
+        "price": 899.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1712052778/Luxury_Magnetic_Shockproof_Matte_iPhone_Case_-_iPhone_14_Plus___Black_Green_azfnvj.jpg"
+      },
+      {
+        "id": "2",
+        "category": "phone",
+        "name": "Smartphone Apple iPhone 15 128GB Purple",
+        "description": "The Smartphone Apple iPhone 15 128GB in Purple delivers a seamless blend of elegance, innovation, and cutting-edge technology.",
+        "price": 999.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1712052644/Luxury_cases_Armor_Matte_For_Magnet_Wireless_Charge_Case_For_iphone_15_14_13_12_11_pro_max_Samsung_Galaxy_S23_S22_S21_Ultra_Plus_5G_Shockproof_Back_C_xbfd6e.jpg"
+      },
+      {
+        "id": "3",
+        "category": "phone",
+        "name": "Samsung Galaxy S23 Ultra 256GB Black",
+        "description": "The Samsung Galaxy S23 Ultra 256GB in Black redefines smartphone excellence with its stunning design and powerful performance. Featuring a large 6.8-inch display, advanced camera system, and lightning-fast processor, this flagship device delivers an unparalleled mobile experience. With 256GB of storage, you'll have plenty of space to store all your photos, videos, and apps.",
+        "price": 45.50,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713649693/SAMSUNG_Galaxy_S23_Ultra_scu6ln.jpg"
+      },
+      {
+        "id": "4",
+        "category": "phone",
+        "name": "Google Pixel 7 128GB Clearly White",
+        "description": "The Google Pixel 7 128GB in Clearly White combines cutting-edge technology with elegant design to deliver an exceptional smartphone experience. With its advanced camera system, powerful processor, and seamless integration with Google services, this device is perfect for capturing and sharing your life's moments. Plus, with 128GB of storage, you'll have plenty of space for all your photos, videos, and apps.",
+        "price": 35.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713649662/Google_Pixel_r7leiu.jpg"
+      },
+      {
+        "id": "5",
+        "category": "phone",
+        "name": "OnePlus 11 Pro 256GB Stellar Black",
+        "description": "The OnePlus 11 Pro 256GB in Stellar Black is a flagship smartphone that combines premium design with top-of-the-line features. With its stunning display, powerful performance, and versatile camera system, this device is perfect for power users and mobile enthusiasts alike. Plus, with 256GB of storage, you'll have ample space to store all your photos, videos, and apps.",
+        "price": 48.75,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713649552/OnePlus_11_China_coced3.jpg"
+      },
+      {
+        "id": "6",
+        "category": "phone",
+        "name": "Xiaomi Redmi Note 12 64GB Midnight Gray",
+        "description": "Xiaomi Redmi Note 12 64GB Midnight Gray redefines smartphone excellence with its stunning design and powerful performance. Featuring a large 6.8-inch display, advanced camera system, and lightning-fast processor, this flagship device delivers an unparalleled mobile experience. With 256GB of storage, you'll have plenty of space to store all your photos, videos, and apps.",
+        "price": 20.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713649499/Xiaomi_Redmi_Note_11_akbspg.jpg"
+      },
+      {
+        "id": "7",
+        "category": "phone",
+        "name": "Smartphone Apple iPhone 14 128GB Purple",
+        "description": "The Smartphone Apple iPhone 14 128GB in Purple delivers a seamless blend of elegance, innovation, and cutting-edge technology.",
+        "price": 899.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1712052778/Luxury_Magnetic_Shockproof_Matte_iPhone_Case_-_iPhone_14_Plus___Black_Green_azfnvj.jpg"
+      },
+      {
+        "id": "8",
+        "category": "phone",
+        "name": "Smartphone Apple iPhone 15 128GB Purple",
+        "description": "The Smartphone Apple iPhone 15 128GB in Purple delivers a seamless blend of elegance, innovation, and cutting-edge technology.",
+        "price": 999.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1712052644/Luxury_cases_Armor_Matte_For_Magnet_Wireless_Charge_Case_For_iphone_15_14_13_12_11_pro_max_Samsung_Galaxy_S23_S22_S21_Ultra_Plus_5G_Shockproof_Back_C_xbfd6e.jpg"
+      },
+      {
+        "id": "9",
+        "category": "phone",
+        "name": "Samsung Galaxy S23 Ultra 256GB Black",
+        "description": "The Samsung Galaxy S23 Ultra 256GB in Black redefines smartphone excellence with its stunning design and powerful performance. Featuring a large 6.8-inch display, advanced camera system, and lightning-fast processor, this flagship device delivers an unparalleled mobile experience. With 256GB of storage, you'll have plenty of space to store all your photos, videos, and apps.",
+        "price": 45.50,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713649693/SAMSUNG_Galaxy_S23_Ultra_scu6ln.jpg"
+      },
+      {
+        "id": "10",
+        "category": "laptop",
+        "name": "Laptop Dell XPS 13",
+        "description": "The Laptop Dell XPS 13 offers a perfect balance of performance, portability, and design.",
+        "price": 1299.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728538/Dell_XPS_15_9510_skins_-_Full_Colour___Textured_Matt_Black_fsrzoc.jpg"
+      },
+      {
+        "id": "11",
+        "category": "laptop",
+        "name": "MacBook Pro 16",
+        "description": "The Laptop MacBook Pro 16 combines power, performance, and versatility in a sleek design.",
+        "price": 2399.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728283/MacBook_Pro_16-inch_Space_Gray_Mockup_-_Free_Download_Images_High_Quality_PNG_JPG_-_99355_uejzkt.jpg"
+      },
+      {
+        "id": "12",
+        "category": "laptop",
+        "name": "The ASUS ROG Zephyrus G14",
+        "description": "The ASUS ROG Zephyrus G14 is a gaming powerhouse packed into a compact and portable form factor. With its AMD Ryzen processor, NVIDIA GeForce graphics, and high-refresh-rate display, it delivers desktop-class gaming performance on the go. The innovative AniMe Matrix display on the lid allows for customizable graphics and notifications, while the long-lasting battery ensures uninterrupted gaming sessions. Whether you're gaming, streaming, or creating content, the ROG Zephyrus G14 delivers exceptional performance and portability.",
+        "price": 2399.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728070/ASUS_ROG_Zephyrus_G14_14__Gaming_Laptop_-_Buyer_s_Guide_wiqha0.jpg"
+      },
+      {
+        "id": "13",
+        "category": "laptop",
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "description": "The Lenovo ThinkPad X1 Carbon is a lightweight and durable business laptop built for professionals on the move. Featuring a carbon fiber chassis, MIL-SPEC durability, and all-day battery life, it offers unmatched reliability and portability. The vibrant display, ergonomic keyboard, and powerful performance make it ideal for productivity and collaboration. Plus, with advanced security features such as the Match-on-Chip fingerprint reader and optional PrivacyGuard display, your data remains protected at all times.",
+        "price": 1899.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728248/Lenovo_ThinkPad_X1_Carbon_G6_i5-8250U_1_6GHz_256GB_8GB_14__1920X1080_INBOARD_uasgu0.jpg"
+      },
+      {
+        "id": "14",
+        "category": "laptop",
+        "name": "HP Spectre x360",
+        "description": "The HP Spectre x360 is a premium 2-in-1 laptop that combines elegance with versatility. With its sleek aluminum design, 360-degree hinge, and vibrant 4K display, it offers the flexibility to work, play, and create in any mode. Powered by Intel's latest processors and integrated graphics, it delivers smooth performance for multitasking and multimedia tasks. The long battery life and fast charging capabilities ensure you stay productive throughout the day.",
+        "price": 1499.99
+      },
+      {
+        "id": "15",
+        "category": "laptop",
+        "name": "Laptop MacBook Pro 16",
+        "description": "The Laptop MacBook Pro 16 combines power, performance, and versatility in a sleek design.",
+        "price": 2399.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728208/HP_Spectre_x360_13-aw_%E8%A3%BD%E5%93%81%E8%A9%B3%E7%B4%B0_-_%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3___%E6%97%A5%E6%9C%ACHP_1_lo1jxx.jpg"
+      },
+      {
+        "id": "16",
+        "category": "laptop",
+        "name": "Microsoft Surface Laptop Studio",
+        "description": "The Microsoft Surface Laptop Studio is a versatile laptop designed for creators and professionals. With its unique 2-in-1 design, PixelSense display, and innovative Surface Dial, it offers a new way to work, create, and connect. Powered by Intel's latest processors and NVIDIA graphics, it delivers powerful performance for demanding tasks such as photo and video editing. The built-in studio mics, Dolby Atmos speakers, and Windows 11 operating system provide an immersive and productive computing experience.",
+        "price": 1799.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728028/Microsoft_Surface_Laptop_Studio_na2ora.jpg"
+      },
+      {
+        "id": "17",
+        "category": "laptop",
+        "name": "Dell XPS 13",
+        "description": "The Laptop Dell XPS 13 offers a perfect balance of performance, portability, and design.",
+        "price": 1299.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728538/Dell_XPS_15_9510_skins_-_Full_Colour___Textured_Matt_Black_fsrzoc.jpg"
+      },
+      {
+        "id": "18",
+        "category": "laptop",
+        "name": "The ASUS ROG Zephyrus G14",
+        "description": "The ASUS ROG Zephyrus G14 is a gaming powerhouse packed into a compact and portable form factor. With its AMD Ryzen processor, NVIDIA GeForce graphics, and high-refresh-rate display, it delivers desktop-class gaming performance on the go. The innovative AniMe Matrix display on the lid allows for customizable graphics and notifications, while the long-lasting battery ensures uninterrupted gaming sessions. Whether you're gaming, streaming, or creating content, the ROG Zephyrus G14 delivers exceptional performance and portability.",
+        "price": 2399.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713728070/ASUS_ROG_Zephyrus_G14_14__Gaming_Laptop_-_Buyer_s_Guide_wiqha0.jpg"
+      },
+      {
+        "id": "19",
+        "category": "tablet",
+        "name": "Samsung Galaxy Tab S7",
+        "description": "The Tablet Samsung Galaxy Tab S7 delivers an immersive viewing experience with its vibrant display and powerful performance.",
+        "price": 649.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730346/Tablet_-_Samsung_Galaxy_TAB_S8_Ultra_5G_256GB_Negro_WiFi_Cellular_14_6_WQXGA_12GB_RAM_SD_898_Android12_tvcm8s.jpg"
+      },
+      {
+        "id": "20",
+        "category": "tablet",
+        "name": "Apple iPad Pro 12.9",
+        "description": "The Tablet Apple iPad Pro 12.9 redefines what a modern tablet can do with its stunning display, powerful performance, and versatile features.",
+        "price": 1099.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713729158/Apple_iPad_Pro_12_9-inch_Wi_Fi_128GB_-_Silver_pwoefs.jpg"
+      },
+      {
+        "id": "21",
+        "category": "tablet",
+        "name": "Apple iPad Pro 12.9",
+        "description": "The Tablet Apple iPad Pro 12.9 redefines what a modern tablet can do with its stunning display, powerful performance, and versatile features.",
+        "price": 1099.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713729158/Apple_iPad_Pro_12_9-inch_Wi_Fi_128GB_-_Silver_pwoefs.jpg"
+      },
+      {
+        "id": "22",
+        "category": "tablet",
+        "name": "Google Pixel Slate",
+        "description": "The Google Pixel Slate is a premium Chrome OS tablet designed for productivity and entertainment. With its high-resolution Molecular Display, powerful Intel Core processor, and support for Google Play apps, it offers the best of both worlds: the versatility of a tablet and the productivity of a laptop. Whether you're working on documents, watching videos, or playing games, the Pixel Slate delivers a seamless and immersive experience. Plus, with the optional Pixelbook Pen and Pixel Slate Keyboard, you can customize your setup for maximum productivity.",
+        "price": 799.00,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730580/Google_Pixel_Slate__Chrome_OS_12_3-inch_touchscreen_Intel_8th-Gen_processor_cakkyk.jpg"
+      },
+      {
+        "id": "23",
+        "category": "tablet",
+        "name": "Microsoft Surface Pro 8",
+        "description": "The Tablet Apple iPad Pro 12.9 redefines what a modern tablet can do with its stunning display, powerful performance, and versatile features.",
+        "price": 999.00,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730393/Microsoft_Surface_Pro_9_with_5G_13_Touch_Screen_Microsoft_SQ3_8GB_Memory_256GB_SSD_Device_Only_Latest_Model_-_Platinum_Unlocked_wuihb8.jpg"
+      },
+      {
+        "id": "24",
+        "category": "tablet",
+        "name": "Lenovo Tab P12 Pro",
+        "description": "The Lenovo Tab P12 Pro is a sleek and powerful Android tablet built for productivity and entertainment. With its stunning 12.6-inch OLED display, Snapdragon processor, and quad speakers tuned by JBL, it offers an immersive multimedia experience. The included Lenovo Precision Pen and Keyboard Folio Case transform the tablet into a versatile workstation, while the long-lasting battery ensures you stay productive all day long.",
+        "price": 699.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730666/Lenovo_Tablet_Lenovo_Tab_P12_Pro_Wi-Fi_256Gb_Za9d0063se_hwkmjf.jpg"
+      },
+      {
+        "id": "25",
+        "category": "tablet",
+        "name": "Amazon Fire HD 10 (2023)",
+        "description": "The Amazon Fire HD 10 (2023) is a budget-friendly tablet that offers great value for entertainment and productivity. With its vibrant 10.1-inch Full HD display, quad-core processor, and up to 12 hours of battery life, it's perfect for streaming movies, browsing the web, and reading books. The built-in Alexa hands-free functionality allows you to control your tablet with just your voice, while the optional Show Mode Dock turns it into a versatile smart display for your home.",
+        "price": 149.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730475/Amazon_Fire_HD_10_Tablet_Protective_Cover__Only_compatible_with_13th_generation_tablet_vercew.jpg"
+      },
+      {
+        "id": "26",
+        "category": "tablet",
+        "name": "Apple iPad Pro 12.9",
+        "description": "The Tablet Apple iPad Pro 12.9 redefines what a modern tablet can do with its stunning display, powerful performance, and versatile features.",
+        "price": 1099.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713729158/Apple_iPad_Pro_12_9-inch_Wi_Fi_128GB_-_Silver_pwoefs.jpg"
+      },
+      {
+        "id": "27",
+        "category": "tablet",
+        "name": "Samsung Galaxy Tab S8 Ultra",
+        "description": "The Samsung Galaxy Tab S8 Ultra is a premium Android tablet designed for productivity and entertainment. With its expansive 14.6-inch Super AMOLED display, powerful Snapdragon processor, and quad speakers tuned by AKG, it offers an immersive multimedia experience. The included S Pen and Book Cover Keyboard transform the tablet into a versatile workstation, while the long-lasting battery ensures you stay productive all day long.",
+        "price": 1199.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730346/Tablet_-_Samsung_Galaxy_TAB_S8_Ultra_5G_256GB_Negro_WiFi_Cellular_14_6_WQXGA_12GB_RAM_SD_898_Android12_tvcm8s.jpg"
+      },
+      {
+        "id": "28",
+        "category": "accessory",
+        "name": "Apple AirPods Pro",
+        "description": "The Accessory AirPods Pro deliver immersive sound, active noise cancellation, and a customizable fit for all-day comfort.",
+        "price": 249.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713730346/Tablet_-_Samsung_Galaxy_TAB_S8_Ultra_5G_256GB_Negro_WiFi_Cellular_14_6_WQXGA_12GB_RAM_SD_898_Android12_tvcm8s.jpg"
+      },
+      {
+        "id": "29",
+        "category": "accessory",
+        "name": "Anker PowerCore 10000",
+        "description": "The Anker PowerCore 10000 Portable Charger offers high-speed charging for smartphones, tablets, and other devices. With a compact and lightweight design, it's perfect for travel and everyday use. It features PowerIQ technology for fast and efficient charging.",
+        "price": 29.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731470/Anker_PowerCore_Fusion_10000_k5zrlw.jpg"
+      },
+      {
+        "id": "30",
+        "category": "accessory",
+        "name": "Anker PowerCore 10000",
+        "description": "The Anker PowerCore 10000 Portable Charger offers high-speed charging for smartphones, tablets, and other devices. With a compact and lightweight design, it's perfect for travel and everyday use. It features PowerIQ technology for fast and efficient charging.",
+        "price": 29.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731470/Anker_PowerCore_Fusion_10000_k5zrlw.jpg"
+      },
+      {
+        "id": "31",
+        "category": "accessory",
+        "name": "Samsung Wireless Charger Duo Pad",
+        "description": "The Samsung Wireless Charger Duo Pad allows you to charge two devices simultaneously, such as your smartphone and smartwatch. It supports fast wireless charging for compatible devices and features a sleek and compact design.",
+        "price": 99.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731606/Samsung_Wireless_Charger_Duo_Pad_rwwvpf.jpg"
+      },
+      {
+        "id": "32",
+        "category": "accessory",
+        "name": "PopSockets PopGrip",
+        "description": "The PopSockets PopGrip offers a secure grip for your smartphone, making it easier to text with one hand, take photos, and watch videos. It also serves as a convenient stand for hands-free use. The swappable design allows you to change your PopTop for endless customization options.",
+        "price": 9.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731640/MagSafe_Grip_Pack_for_iPhone_12___13_meedwx.jpg"
+      },
+      {
+        "id": "33",
+        "category": "accessory",
+        "name": "Anker PowerCore 10000",
+        "description": "The Anker PowerCore 10000 Portable Charger offers high-speed charging for smartphones, tablets, and other devices. With a compact and lightweight design, it's perfect for travel and everyday use. It features PowerIQ technology for fast and efficient charging.",
+        "price": 29.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731470/Anker_PowerCore_Fusion_10000_k5zrlw.jpg"
+      },
+      {
+        "id": "34",
+        "category": "accessory",
+        "name": "Tile Mate Bluetooth Tracker",
+        "description": "The Tile Mate Bluetooth Tracker helps you keep track of your keys, wallet, and other belongings. Simply attach it to your items and use the Tile app to ring your Tile if it's nearby or see its location on a map if it's far away. It also works in reverse to find your phone by double-pressing the Tile button.",
+        "price": 24.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731687/Tile_gc7znj.jpg"
+      },
+      {
+        "id": "35",
+        "category": "accessory",
+        "name": "Spigen Tough Armor iPhone Case",
+        "description": "The Spigen Tough Armor iPhone Case provides rugged protection for your iPhone with its dual-layer design and air cushion technology. It features a built-in kickstand for hands-free viewing and precise cutouts for easy access to ports and buttons.",
+        "price": 16.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731547/Spigen_Tough_Armor_Mag_Case_Apple_iPhone_15_Plus_Black_Magfit_-_ACS06669_xmkabk.jpg"
+      },
+      {
+        "id": "36",
+        "category": "accessory",
+        "name": "Anker PowerCore 10000",
+        "description": "The Anker PowerCore 10000 Portable Charger offers high-speed charging for smartphones, tablets, and other devices. With a compact and lightweight design, it's perfect for travel and everyday use. It features PowerIQ technology for fast and efficient charging.",
+        "price": 29.99,
+        "photoUrl": "https://res.cloudinary.com/dmdg0lwhz/image/upload/v1713731470/Anker_PowerCore_Fusion_10000_k5zrlw.jpg"
+      }
+    ]
+  }
